@@ -1,0 +1,4 @@
+{
+	"cmd": ["jslint", "$file", "--goodparts"],
+	"selector": "*.js"
+}
