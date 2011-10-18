@@ -23,7 +23,7 @@ through JSLint by a Sublime Text 2 build script.
 
 ### Set Up
 
-*  ```npm install jslint -g```
+* ```$ npm install jslint -g```
 * Store [this file](https://raw.github.com/LennyLinux/Sandbox/master/JSLint-Sublime-Text-2/JSLint.sublime-build) in ```/Users/USERNAME/Library/Application Support/Sublime Text 2/Packages/JavaScript/```
 * Restart Sublime Text 2
 
@@ -57,4 +57,4 @@ You can easily configure JSLint by passing more parameters to the options hash;
     
 For more options to pass run on the command-line
 
-``` jslint```
+    $ jslint
